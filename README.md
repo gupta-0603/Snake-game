@@ -2,6 +2,10 @@
 
 A classic Snake Game built using **Python** and **Pygame**. The player controls a snake that grows in length as it eats food while avoiding collisions with itself and the game boundaries.
 
+GamePlay:
+<img width="440" height="315" alt="image" src="https://github.com/user-attachments/assets/cedc789b-ccc4-445c-974a-ed6d9cce29c6" />
+
+
 
 ## 🚀 Features
 
